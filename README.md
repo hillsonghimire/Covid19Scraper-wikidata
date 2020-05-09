@@ -1,4 +1,4 @@
-# Covid19Scraper-wikidata (Conscise District Wise Data Collector)
+# Covid19Scraper-wikidata (District Wise Data Collector)
 
 
 Python based Wikipedia table scraper that collects data related to corona virus cases in Nepal.
@@ -25,4 +25,3 @@ This example scrapes the overall data of Covid19 Cases in Nepal. The output .csv
 Expected Application:
 
 This data can be used to visualize district wise infection, recovery, death, and active cases present in the district either in forms of heatmaps, chloropleths, or charts.
-
